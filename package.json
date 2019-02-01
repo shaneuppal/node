@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shaneuppal/node.git"
+  },
+  "author": "ShaneUppal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneuppal/node/issues"
+  },
+  "homepage": "https://github.com/shaneuppal/node#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
